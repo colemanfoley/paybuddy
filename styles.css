@@ -1,0 +1,11 @@
+body {
+  /* rules go here */
+}
+
+.error{
+  color: red;
+}
+
+#all_good{
+  color: green;
+}
